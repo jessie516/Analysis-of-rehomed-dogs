@@ -1,7 +1,8 @@
-# Statistical_Theory_and_Methods_R
+# Analysis-of-rehomed-dogs-data
 
 Analysis of rehomed dogs data to determine whether the average time to rehome dogs varies based on breed
 
+- Data Analysis Report.pdf
 - Rehomed Data Analysis.R
 - mysample.RData
-- Data Analysis Report.pdf
+
